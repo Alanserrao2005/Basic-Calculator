@@ -48,7 +48,8 @@ That’s it 🎉 You now have a working calculator!
 ---
 
 ## 📸 Preview
-![Calculator Screenshot](https://via.placeholder.com/400x250.png?text=Calculator+Preview)
+<img width="1888" height="893" alt="Screenshot 2025-08-20 194611" src="https://github.com/user-attachments/assets/98ceb711-60e5-4293-863c-0aa5da0c8cd3" />
+
 
 ---
 
